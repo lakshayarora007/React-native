@@ -3,7 +3,7 @@
 A React Native mobile application built using **Expo** that demonstrates authentication flow, dashboard analytics, and data-driven screens using a public REST API.
 
 Expo EAS Update (Live App)
-https://expo.dev/accounts/aroralakshay67/projects/demo-app-pbw7n1pp41rbn07nsx2sr
+https://expo.dev/preview/update?message=Initial+Expo+publish&updateRuntimeVersion=1.0.0&createdAt=2026-01-03T11%3A19%3A45.549Z&slug=exp&projectId=3a6cc73c-1c5f-49b5-a422-67612987fb07&group=9b1df804-c0fa-46de-85a7-c6459747dc8b
 
 ---
 
